@@ -130,6 +130,7 @@ non-quick costs 100+ yuan and it involves a beauty makeover for you to look grea
 My local shop sat me down, informed me that no necklaces or earrings were allowed on the license photos (wouldn't have
 known this myself in a photo booth), took my picture, photoshopped it for a few minutes (apparently this is standard),
 printed out and cut the photos, all for ¥15. I wasn't sure about the size, 1寸 or 2寸 (turns out it's 1寸) so got both.
+It seems some hospitals might require a photo for the health check, mine just took a photo of me on the spot instead.
 
 ### 🩺 Health Check
 
@@ -157,6 +158,17 @@ bring it the second time around (more on that below.)
 ## 👮 At the Traffic Police Office
 
 ### 🔎 Finding Xipu, Document Check
+
+> Checklist of documents:
+> - Passport (original)
+> - Passport (photocopy)
+> - Residence permit (photocopy)
+> - Accommodation registration voucher 登记 (original)
+> - Accommodation registration voucher 登记 (photocopy)
+> - Foreign license (original)
+> - Notarized translation of foreign license (just bring the whole folder with translations and the company certificate)
+> - Physical examination certificate
+> - 1-inch photos with white background and no hats or ornaments
 
 **Now that you have all your documents in order,** it is time to head to the traffic police office to properly
 start the process. In Chengdu, there are many traffic police offices, but you can **only** exchange foreign licenses
