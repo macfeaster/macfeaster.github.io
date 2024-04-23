@@ -2,6 +2,7 @@ baseURL: "https://macfeaster.github.io/"
 title: 大陆历险记 – Mainland Adventures
 theme: PaperMod
 disableKinds: ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+publishDir: docs
 
 params:
   comments: true
