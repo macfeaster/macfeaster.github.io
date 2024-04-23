@@ -17,6 +17,12 @@ so this serves as a guide for Chengdu specifically, though most of it should be 
 
 ## Good to Know
 
+### 📣 Language of the Motherland
+
+> While you can take the exam itself (more on that later) in English (thank god), be prepared to do everything else in
+this process in Chinese. As per usual, people do not speak English, will communicate with you in Chinese, and will
+expect you to understand their native-speed Chinese responses perfectly. It is helpful to pre-study some vocabulary.
+
 ### ♻️ Swapping Your License
 
 It goes without saying that all of this only applies if you **already have a currently valid
