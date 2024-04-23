@@ -41,6 +41,13 @@ There are two types of licenses you can get:
 
 This guide is mostly focused on the official one since that is what I obtained.
 
+### ⚙️ Transmission
+
+At least for the official license, you also have the option to choose between **manual and automatic transmission,**
+which in China is two different licenses, C1 for manual (手动) and C2 for automatic (自动). I was simply asked which one
+I wanted, and since my Swedish license is valid for and I know how to drive manual, I picked C1, but there was no check
+to see if I was actually qualified to have it.
+
 ### 🏙️ Residency
 
 There are some basic requirements in order to obtain the license.
@@ -185,7 +192,8 @@ then send you across the room to say the exact same thing and get a ticket numbe
 and wait until you are called to either one of the two "bilingual" service windows. (Though the office seems to have at
 one officer with very decent English, just expect to do everything in Mandarin always.)
 
-At this point, I was asked if I wanted the temporary 暂时 or the official 正式 license.
+At this point, I was asked if I wanted the temporary 暂时 or the official 正式 license, and whether I wanted a C1 or C2
+(手动/自动, automatic/manual transmission, see previous section.)
 
 When your application is submitted, you are done for the day and they will send you back home.
 They will call you when your application has been processed, usually 1-2 working days, for me they called pretty
